@@ -1,0 +1,10 @@
+# Text-Utils-Python-Django-Project-
+![image](https://user-images.githubusercontent.com/51699299/109939533-2be31200-7cf7-11eb-8f5c-69e452476b72.png)
+![image](https://user-images.githubusercontent.com/51699299/109939627-41f0d280-7cf7-11eb-88e0-181848351519.png)
+![image](https://user-images.githubusercontent.com/51699299/109939675-4e752b00-7cf7-11eb-93bd-7da473c676a3.png)
+![image](https://user-images.githubusercontent.com/51699299/109939806-6ba9f980-7cf7-11eb-8a45-f9b6921b41ad.png)
+![image](https://user-images.githubusercontent.com/51699299/109939856-795f7f00-7cf7-11eb-9ad0-524511fac30b.png)
+![image](https://user-images.githubusercontent.com/51699299/109940031-a744c380-7cf7-11eb-9965-eee26a3f6f25.png)
+![image](https://user-images.githubusercontent.com/51699299/109940066-af046800-7cf7-11eb-82ab-7f6f2e6e5c4f.png)
+![image](https://user-images.githubusercontent.com/51699299/109940134-c2afce80-7cf7-11eb-91e4-f24b461b0bd5.png)
+![image](https://user-images.githubusercontent.com/51699299/109940178-cba0a000-7cf7-11eb-8af3-bc5f5e0e7d58.png)
